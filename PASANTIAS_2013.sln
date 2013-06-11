@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{A59F285E-7DA9-4DC8-B4FC-6DB5D8879577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clientes", "ConsoleApplication1\Clientes.csproj", "{3E03768D-3226-4ED6-963F-779A08EBDE10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraVisual", "CalculadoraVisual\CalculadoraVisual.csproj", "{DA801CE9-163C-4574-B95E-B199FDCC49C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tateti_isp20", "tateti_isp20\tateti_isp20.csproj", "{EBA5570C-DD84-41BA-994D-C7E6D633DA5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59F285E-7DA9-4DC8-B4FC-6DB5D8879577}.Debug|x86.ActiveCfg = Debug|x86
+		{A59F285E-7DA9-4DC8-B4FC-6DB5D8879577}.Debug|x86.Build.0 = Debug|x86
+		{A59F285E-7DA9-4DC8-B4FC-6DB5D8879577}.Release|x86.ActiveCfg = Release|x86
+		{A59F285E-7DA9-4DC8-B4FC-6DB5D8879577}.Release|x86.Build.0 = Release|x86
+		{3E03768D-3226-4ED6-963F-779A08EBDE10}.Debug|x86.ActiveCfg = Debug|x86
+		{3E03768D-3226-4ED6-963F-779A08EBDE10}.Debug|x86.Build.0 = Debug|x86
+		{3E03768D-3226-4ED6-963F-779A08EBDE10}.Release|x86.ActiveCfg = Release|x86
+		{3E03768D-3226-4ED6-963F-779A08EBDE10}.Release|x86.Build.0 = Release|x86
+		{DA801CE9-163C-4574-B95E-B199FDCC49C2}.Debug|x86.ActiveCfg = Debug|x86
+		{DA801CE9-163C-4574-B95E-B199FDCC49C2}.Debug|x86.Build.0 = Debug|x86
+		{DA801CE9-163C-4574-B95E-B199FDCC49C2}.Release|x86.ActiveCfg = Release|x86
+		{DA801CE9-163C-4574-B95E-B199FDCC49C2}.Release|x86.Build.0 = Release|x86
+		{EBA5570C-DD84-41BA-994D-C7E6D633DA5A}.Debug|x86.ActiveCfg = Debug|x86
+		{EBA5570C-DD84-41BA-994D-C7E6D633DA5A}.Debug|x86.Build.0 = Debug|x86
+		{EBA5570C-DD84-41BA-994D-C7E6D633DA5A}.Release|x86.ActiveCfg = Release|x86
+		{EBA5570C-DD84-41BA-994D-C7E6D633DA5A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

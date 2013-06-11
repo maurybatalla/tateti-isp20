@@ -1,0 +1,5 @@
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

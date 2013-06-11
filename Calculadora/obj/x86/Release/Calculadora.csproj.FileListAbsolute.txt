@@ -1,0 +1,8 @@
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\bin\Release\Calculadora.exe
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\bin\Release\Calculadora.pdb
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\obj\x86\Release\Calculadora.FrmCalculadora.resources
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\obj\x86\Release\Calculadora.exe
+C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\Calculadora\obj\x86\Release\Calculadora.pdb
