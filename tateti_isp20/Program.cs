@@ -8,7 +8,7 @@ namespace tateti_isp20
     class Program
     {
         static void Main(string[] args)
-        {
+        {   //declaro e inicializo el juego
             Juego juego = new Juego();
             int jugador_actual = 1;//creo variable
             int ficha_actual = 1;//creo variable

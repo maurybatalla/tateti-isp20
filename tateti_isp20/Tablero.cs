@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections;
 
 namespace tateti_isp20
-{
+{//comentario de prueba
     public class Tablero
     {
         public Hashtable posiciones;//diccionario maneja de a pares de valores , (indice y valor)

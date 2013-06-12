@@ -3,3 +3,5 @@ C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\tateti_isp20\bin\Debug\t
 C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\tateti_isp20\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\tateti_isp20\obj\x86\Debug\tateti_isp20.exe
 C:\Mauricio\INSTITUO 4 AÑO\PASANTIAS\c#\PASANTIAS_2013\tateti_isp20\obj\x86\Debug\tateti_isp20.pdb
+C:\Mauricio\INSTITUO-4-ANIO\PASANTIAS\c#\PASANTIAS_2013\tateti_isp20\obj\x86\Debug\tateti_isp20.exe
+C:\Mauricio\INSTITUO-4-ANIO\PASANTIAS\c#\PASANTIAS_2013\tateti_isp20\obj\x86\Debug\tateti_isp20.pdb
